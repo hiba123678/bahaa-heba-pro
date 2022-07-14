@@ -1,0 +1,62 @@
+[0318/114520.183:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0503/222340.767:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0508/015239.153:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0508/111241.037:ERROR:process_info.cc(329)] VirtualQueryEx: Access is denied. (0x5)
+[0508/111241.037:ERROR:process_info.cc(556)] ReadMemoryInfo failed
+[0508/111241.037:ERROR:process_memory_win.cc(39)] Failed to initialize ProcessInfo.
+[0508/111241.021:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0508/111241.021:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0508/111241.021:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0508/111241.099:ERROR:exception_snapshot_win.cc(99)] thread ID 4012 not found in process
+[0508/111241.021:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0508/111241.037:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0508/111241.099:ERROR:exception_snapshot_win.cc(99)] thread ID 472 not found in process
+[0508/111241.099:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0508/111241.099:ERROR:exception_snapshot_win.cc(99)] thread ID 3508 not found in process
+[0508/111241.099:ERROR:exception_snapshot_win.cc(99)] thread ID 9916 not found in process
+[0508/111241.208:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0508/111241.208:ERROR:exception_snapshot_win.cc(99)] thread ID 8604 not found in process
+[0508/111241.208:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0508/111241.208:ERROR:exception_snapshot_win.cc(99)] thread ID 2628 not found in process
+[0508/111241.224:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0508/111241.224:ERROR:exception_snapshot_win.cc(99)] thread ID 2688 not found in process
+[0508/111241.224:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0508/111241.224:ERROR:exception_snapshot_win.cc(99)] thread ID 200 not found in process
+[0508/111241.224:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0508/111241.224:ERROR:exception_snapshot_win.cc(99)] thread ID 1740 not found in process
+[0508/111241.240:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0508/111241.240:ERROR:exception_snapshot_win.cc(99)] thread ID 9616 not found in process
+[0508/111241.255:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0508/111241.255:ERROR:exception_snapshot_win.cc(99)] thread ID 6808 not found in process
+[0508/111241.255:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0508/111241.255:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0508/111241.271:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0508/111241.271:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0508/111241.271:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0508/111241.271:ERROR:exception_snapshot_win.cc(99)] thread ID 456 not found in process
+[0508/111241.271:ERROR:exception_snapshot_win.cc(99)] thread ID 2984 not found in process
+[0508/111241.271:ERROR:exception_snapshot_win.cc(99)] thread ID 7360 not found in process
+[0508/111241.271:ERROR:exception_snapshot_win.cc(99)] thread ID 9808 not found in process
+[0508/111241.271:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0508/111241.271:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0508/111241.271:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0508/111241.271:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0525/022315.894:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0529/011626.921:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0601/064834.971:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0602/134903.238:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0602/134903.238:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0602/134903.520:ERROR:exception_snapshot_win.cc(99)] thread ID 8320 not found in process
+[0602/134903.238:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0602/134903.238:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0602/134903.270:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0602/134903.270:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0602/134903.270:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0602/134903.520:ERROR:exception_snapshot_win.cc(99)] thread ID 8756 not found in process
+[0602/134903.520:ERROR:exception_snapshot_win.cc(99)] thread ID 9960 not found in process
+[0602/134903.520:ERROR:exception_snapshot_win.cc(99)] thread ID 6260 not found in process
+[0602/134903.520:ERROR:exception_snapshot_win.cc(99)] thread ID 3428 not found in process
+[0602/134903.520:ERROR:exception_snapshot_win.cc(99)] thread ID 7172 not found in process
+[0602/134903.520:ERROR:exception_snapshot_win.cc(99)] thread ID 4112 not found in process
+[0606/082209.174:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[0620/033639.595:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)

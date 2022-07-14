@@ -1,0 +1,26 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+.bb:hover{color: chartreuse;}
+
+a:hover {
+  color: red;
+}
+
+
+.ainwebsit {
+  color: #676c78;
+}
+
+    /* css all website */
+
+  .ainwebsit:hover{
+    color:#0dcaf0;
+  }
+  
+.bf {
+  color:blueviolet;
+}
+.bsit:hover{color:"#000000";
+}
+Nav.Link:hover {color: red;}
+.tage:hover{background-color: #0dcaf0;}

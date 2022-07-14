@@ -1,0 +1,98 @@
+@import '~mdb-ui-kit/css/mdb.min.css'; 
+@import 'bootstrap/dist/css/bootstrap.min.css';
+.hi{color: blue;}
+.bgColor{
+    background-color:#37517e;
+
+}
+
+.App{font-family: 
+ "Jost", sans-serif,"Open Sans", sans-serif;
+
+
+
+}
+.hiba{margin-left: 1000px;
+}
+.navbarcontent{font-family: "Open Sans",sans-serif;
+
+}
+.link{color: aliceblue;}
+.hompagecard{
+   background-color: #37517e;
+    height: 620px;
+    width: 100%;
+ border:2px solid black;
+}
+.title{
+    border: none;
+    margin-top: 100px;
+}
+
+
+
+
+.titleHome{
+    background-color: blueviolet;
+    margin-left: -300px;
+margin-top: 110px;
+}
+
+
+
+
+/* style CardHome component */
+
+
+.cardhomestyle{
+
+    height: 600px;
+}
+.cardBodyHome{
+    margin-top: 130px;
+    margin-left: -720px;
+}
+.subscribeButton{}
+.cardImageHome{
+    width:500px;
+    height:500px;
+    margin-top: 1000px;
+    margin-left: -2000px;
+}
+/* about component style */
+.card-about{height: 400px;}
+.aboutTitle{font-weight: bold;
+color:#37517e;}
+
+
+/* #f3f5fa */
+
+
+
+
+/* formContact Style */
+.containerForm{
+
+}
+
+
+
+/* style of accordionGeneral */
+.accordionAsk{
+width: 100px;
+background-color: gray;
+
+
+}
+a:hover{
+
+    color:red;
+}
+
+
+.sde:focus {
+    outline: none;
+    box-shadow: none;
+  }
+
+  .gg{color: blue;}
